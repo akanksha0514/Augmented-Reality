@@ -1,4 +1,4 @@
-# ARKit
+# Augmented Reality
 Virtual shop experience that allows the user to place virtual shop in front of the camera and interact with virtual products. 
 
 Used ARKIT and Scenekit
